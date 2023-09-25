@@ -118,7 +118,7 @@
             android:layout_marginBottom="40dp"
             android:background="#C8B5B5"
             android:backgroundTint="#C8B5B5"
-            android:text="Eu li com atenção os termos de uso e aceito os termos criados no dia 24/09/2023  feito pelo aluno Nicolas Arthur, aluno do UNIS que cursa Ciências da computação. "
+            android:text="Eu li com atenção os termos de uso e aceito os termos criados no dia 25/09/2023  feito pelo aluno Allison Freitas, aluno do UNIS que cursa Ciências da computação. "
             android:textAlignment="viewStart"
             android:textColor="#050505"
             app:layout_constraintBottom_toBottomOf="parent"
